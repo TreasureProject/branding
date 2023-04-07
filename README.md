@@ -15,6 +15,8 @@ import {
   TreasureLogo,
   MagicLogo,
   TreasureLogoFull,
+  MagicSwapLogo,
+  MagicSwapLogoFull,
 } from "@treasure-project/branding";
 
 // Use it in React
